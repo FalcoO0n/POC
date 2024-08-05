@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 e8ea441eb7c5e38be124c43ddd6aeab619b6e566 Jayesh Baviskar <jayeshbaviskar07@gmail.com> 1722493659 +0530	commit (initial): init
-e8ea441eb7c5e38be124c43ddd6aeab619b6e566 e8ea441eb7c5e38be124c43ddd6aeab619b6e566 Jayesh Baviskar <jayeshbaviskar07@gmail.com> 1722493688 +0530	Branch: renamed refs/heads/main to refs/heads/main
-e8ea441eb7c5e38be124c43ddd6aeab619b6e566 15b87635a76bbd2f9d38ecdcedb2c760b1028319 Jayesh Baviskar <jayeshbaviskar07@gmail.com> 1722580592 +0530	commit: feat(Nav): Done with SideNav, TopNav
-15b87635a76bbd2f9d38ecdcedb2c760b1028319 9b23618adb82db3349eb6d2b786dc25596e7a846 Jayesh Baviskar <jayeshbaviskar07@gmail.com> 1722782439 +0530	commit: feat(Nav): dot menu implemented, Chat mockup implemented, Help and sidenav modifications
-9b23618adb82db3349eb6d2b786dc25596e7a846 21e6beb13e4489e33731c7c47461059a017ae7b4 Jayesh Baviskar <jayeshbaviskar07@gmail.com> 1722836182 +0530	commit: feat(Sidenav): Responsive Nav
-21e6beb13e4489e33731c7c47461059a017ae7b4 3c3500fb92a7cd3f1a619884617996ec91364fbe Jayesh Baviskar <jayeshbaviskar07@gmail.com> 1722849106 +0530	commit: feat(POC): Poc ready stage. Router navigation, Charts, Tables, MultiRoute done
